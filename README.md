@@ -1,3 +1,3 @@
-# css-grid
+# Web Css Grid Demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-mhznuw)
+[Edit on StackBlitz ⚡️](https://https://css-gid-demo.stackblitz.io)
